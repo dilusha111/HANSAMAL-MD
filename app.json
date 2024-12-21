@@ -7,12 +7,12 @@
 
   "env": {
     "OWNER_NUMBER": {
-      "description": "Put the number here.",
+      "description": "94760334624",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "HANSAMAL-MD=LR0GkbYY#DhTbcObfV_m3r-Tpw-3_o-4onlhaKebOLXylE12WH6c",
       "required": false
     },  
   "GITHUB_USER_NAME": {
